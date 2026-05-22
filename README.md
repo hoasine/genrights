@@ -108,9 +108,16 @@ genrights/
 
 ---
 
+## Deploy online (Vercel)
+
+1. Import repo [hoasine/genrights](https://github.com/hoasine/genrights) trên [Vercel](https://vercel.com/)
+2. **Root Directory:** `frontend`
+3. Thêm biến môi trường `NEXT_PUBLIC_*` (xem [docs/VERCEL.md](./docs/VERCEL.md))
+
 ## Tài liệu
 
 - [Hướng dẫn chi tiết (Tiếng Việt)](./docs/HUONG_DAN.md) — deploy, UI, Git, troubleshooting
+- [Deploy Vercel](./docs/VERCEL.md)
 - [Checklist push Git](./docs/GIT_PUSH.md)
 - [GenLayer Docs](https://docs.genlayer.com/)
 
