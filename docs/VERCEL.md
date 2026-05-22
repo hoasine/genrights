@@ -6,7 +6,15 @@ Repo GitHub: [https://github.com/hoasine/genrights](https://github.com/hoasine/g
 
 ---
 
-## Cách 1 — Import từ GitHub (khuyến nghị)
+## Cách nhanh nhất — 1 click (Deploy Button)
+
+Mở link sau (đăng nhập Vercel + GitHub nếu được hỏi), kiểm tra **Root Directory = frontend**, rồi **Deploy**:
+
+**[▶ Deploy GenRights lên Vercel](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fhoasine%2Fgenrights&project-name=genrights&root-directory=frontend&env=NEXT_PUBLIC_CONTRACT_ADDRESS%3D0xf3c87B03163b3f802B75D1aEaa64FbaE2Db2Ba68%2CNEXT_PUBLIC_GENLAYER_RPC_URL%3Dhttps%3A%2F%2Fstudio.genlayer.com%2Fapi%2CNEXT_PUBLIC_GENLAYER_CHAIN_ID%3D61999%2CNEXT_PUBLIC_GENLAYER_CHAIN_NAME%3DGenLayer%20Studionet%2CNEXT_PUBLIC_GENLAYER_SYMBOL%3DGEN)**
+
+---
+
+## Cách 1 — Import từ GitHub (thủ công)
 
 1. Đăng nhập [vercel.com](https://vercel.com/) → **Add New…** → **Project**
 2. Import repo **hoasine/genrights**
